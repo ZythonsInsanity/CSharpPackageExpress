@@ -1,0 +1,14 @@
+c:\users\kay\Desktop\PackageExpress\PackageExpress\bin\Debug\PackageExpress.exe.config
+c:\users\kay\Desktop\PackageExpress\PackageExpress\bin\Debug\PackageExpress.exe
+c:\users\kay\Desktop\PackageExpress\PackageExpress\bin\Debug\PackageExpress.pdb
+c:\users\kay\Desktop\PackageExpress\PackageExpress\obj\Debug\PackageExpress.csprojAssemblyReference.cache
+c:\users\kay\Desktop\PackageExpress\PackageExpress\obj\Debug\PackageExpress.csproj.CoreCompileInputs.cache
+c:\users\kay\Desktop\PackageExpress\PackageExpress\obj\Debug\PackageExpress.exe
+c:\users\kay\Desktop\PackageExpress\PackageExpress\obj\Debug\PackageExpress.pdb
+C:\Users\Kay\Desktop\C # Finished Programs (Assignments)\PackageExpress\PackageExpress\bin\Debug\PackageExpress.exe.config
+C:\Users\Kay\Desktop\C # Finished Programs (Assignments)\PackageExpress\PackageExpress\bin\Debug\PackageExpress.exe
+C:\Users\Kay\Desktop\C # Finished Programs (Assignments)\PackageExpress\PackageExpress\bin\Debug\PackageExpress.pdb
+C:\Users\Kay\Desktop\C # Finished Programs (Assignments)\PackageExpress\PackageExpress\obj\Debug\PackageExpress.csprojAssemblyReference.cache
+C:\Users\Kay\Desktop\C # Finished Programs (Assignments)\PackageExpress\PackageExpress\obj\Debug\PackageExpress.csproj.CoreCompileInputs.cache
+C:\Users\Kay\Desktop\C # Finished Programs (Assignments)\PackageExpress\PackageExpress\obj\Debug\PackageExpress.exe
+C:\Users\Kay\Desktop\C # Finished Programs (Assignments)\PackageExpress\PackageExpress\obj\Debug\PackageExpress.pdb
